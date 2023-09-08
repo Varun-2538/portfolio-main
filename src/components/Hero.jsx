@@ -29,7 +29,7 @@ const Hero = () => {
         
         </div>
        <ComputersCanvas />
-       <div className='absolute
+       <div></div>
 
        
       </section>
