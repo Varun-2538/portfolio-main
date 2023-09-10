@@ -23,6 +23,9 @@ import {
     jobit,
     tripguide,
     threejs,
+    BCSRM,
+    kzilla,
+    xyz,
     
   } from "../assets";
   
@@ -119,7 +122,7 @@ import {
     {
       title: "Associate Tech lead ",
       company_name: "Blockchain Club SRM",
-      icon: starbucks,
+      icon: BCSRM,
       iconBg: "#383E56",
       date: "Oct 2022 - present",
       points: [
@@ -132,7 +135,7 @@ import {
     {
       title: "UI/UX Designer",
       company_name: "Kzilla",
-      icon: tesla,
+      icon: kzilla,
       iconBg: "#E6DEDD",
       date: "Oct 2022 - April 2023",
       points: [
@@ -145,7 +148,7 @@ import {
     {
       title: "Tech Intern",
       company_name: "Bharat Intern",
-      icon: shopify,
+      icon: xyz,
       iconBg: "#383E56",
       date: "Aug 2023 - Sept 2023",
       points: [
